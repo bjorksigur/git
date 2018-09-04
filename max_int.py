@@ -3,7 +3,7 @@ max_int = 0
 while num_int >= 0:
     int(input("Input a number"))
 if num_int < 0: 
-    break
+    
 
 print("The maximum is", max_int)    # Do not change this line
 
